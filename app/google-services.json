@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52925814959",
+    "firebase_url": "https://fir-kisiler-83d6e.firebaseio.com",
+    "project_id": "fir-kisiler-83d6e",
+    "storage_bucket": "fir-kisiler-83d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52925814959:android:ba404bff2fb124913d5c5a",
+        "android_client_info": {
+          "package_name": "com.omerfpekgoz.udemy_72_uygulama_kisiler_firebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52925814959-i197ks9envmt7scfmfh95ppfqtcegvin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omerfpekgoz.udemy_72_uygulama_kisiler_firebaserealtime",
+            "certificate_hash": "d8df4279569199c7ee15dd5300f5632ae7b066f6"
+          }
+        },
+        {
+          "client_id": "52925814959-6ar0vvnv6hr8uvv69uur84oob0400skl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBme4ksfG2PCl8RRCgk15lnRmmNLbdxWow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52925814959-6ar0vvnv6hr8uvv69uur84oob0400skl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
